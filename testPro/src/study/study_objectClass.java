@@ -11,4 +11,6 @@ public class study_objectClass {
 //	
 //	ex) class Student -> class Student extends Object
 	
+	
+	
 }
