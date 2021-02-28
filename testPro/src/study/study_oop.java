@@ -1,4 +1,4 @@
-package testPro;
+package study;
 
 public class study_oop {
 	
